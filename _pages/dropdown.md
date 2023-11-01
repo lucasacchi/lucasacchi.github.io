@@ -10,7 +10,7 @@ children:
     - title: divider
     - title: sailing
       permalink: /sailing/
-    -title: divider
-    -title: SCUBA
+    - title: divider
+    - title: SCUBA
       permalink: /scuba/
 ---
