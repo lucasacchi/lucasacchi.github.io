@@ -5,9 +5,12 @@ nav: true
 nav_order: 7
 dropdown: true
 children:
-    - title: publications
-      permalink: /publications/
+    - title: ARIS
+      permalink: /aris/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: sailing
+      permalink: /sailing/
+    -title: divider
+    -title: SCUBA
+      permalink: /scuba/
 ---
