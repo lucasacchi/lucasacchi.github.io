@@ -2,21 +2,21 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Luca Sacchi
     - name: Date of Birth
-      value: 14th March 1879
+      value: 31st December 1999
     - name: Languages
-      value: English, German
+      value: Italian, English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MSc. in Physics
+      institution: ETH, Zurich, Switzerland
+      year: 2021-Present
       description:
-        - Description 1.
-        - Description 2.
+        - <b>Project 1:</b> Characterization of a time symmetry-breaking chiral cavity with THz-TDS
+        - <b>Project 2:</b> Analyzing the pro and retrograde content of ringdown signals in aligned-spin binary BH mergers.
         - title: Description 3.
           contents:
             - Sub-description 1.
