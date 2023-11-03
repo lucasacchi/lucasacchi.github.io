@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated BSc Physics from University of Turin.
+Graduated BSc Physics from the University of Turin.
