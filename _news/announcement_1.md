@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2021-07-21 00:00:00-0000
-inline: false
+inline: true
 related_posts: false
 ---
 
