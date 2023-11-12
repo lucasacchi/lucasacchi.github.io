@@ -19,8 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Master's student in physics at ETH in Zurich where I am taking my first steps into graduate studies and research. Previously, I obtained my BSc. degree in Physics at the University of Turin during which I spent one year as an ERASMUS student at the University of Bonn. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have been focusing on my graduate studies in two different areas of physics. In my initial year of grad studies, I concentrated on Quantum Optics and Photonics, working in Professor Jerome Faist and Giacomo Scalari's lab on a THz metamaterial optical cavity. Driven by sheer curiosity and a lack of knowledge in the area, I decided to delve into General Relativity and Cosmology by taking various graduate courses and doing teaching assistantships. I am currently working on a project on decomposing quasinormal mode signals from binary black hole mergers in NR simulations. An unexpected yet exhilarating journey from the micro to the macrocosmic.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time, I like to try and learn new sports. In particular, I like scuba diving and sailing, where technicality and the call of adventure converge.
+
+
+
+During my leisure, I thrive on exploring novel experiences and embracing adrenaline-fueled activities. Scuba diving and sailing have become my chosen realms, where the thrill of technical prowess and the call of adventure converge.
