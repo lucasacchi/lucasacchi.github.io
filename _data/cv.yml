@@ -4,7 +4,7 @@
     - name: Full Name
       value: Luca Sacchi
     - name: Date of Birth
-      value: 31st December 1999
+      value: 31 December 1999
     - name: Languages
       value: Italian, English, German
 
@@ -24,6 +24,7 @@
         - title: <b>Thesis:</b> NLSE solitons solutions in a Bose-Einstein Condensate and their geometrical interpretation.
           contents:
             - <b>Supervisors:</b> Prof. Roberto Tateo
+        - title: <b>Project:</b> Testing the CHSH inequality with sequential weak measurements on polarization-entangled photon pairs.
 
 - title: Experience
   type: time_table
@@ -45,7 +46,11 @@
   type: time_table
   contents:
     - title: Teaching Assistant for General Relativity graduate course
+      institution: ETH
+      year: 2023
     - title: Teaching Assistant for Theoretical Cosmology graduate course
+      institution: ETH
+      year: 2023
 
 - title: Academic Interests
   type: nested_list
