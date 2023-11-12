@@ -26,5 +26,3 @@ I have been focusing on my graduate studies in two different areas of physics. I
 In my free time, I like to try and learn new sports. In particular, I like scuba diving and sailing, where technicality and the call of adventure converge.
 
 
-
-During my leisure, I thrive on exploring novel experiences and embracing adrenaline-fueled activities. Scuba diving and sailing have become my chosen realms, where the thrill of technical prowess and the call of adventure converge.
