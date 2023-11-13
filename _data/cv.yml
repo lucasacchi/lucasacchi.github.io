@@ -24,7 +24,7 @@
         - title: <b>Thesis:</b> NLSE solitons solutions in a Bose-Einstein Condensate and their geometrical interpretation.
           contents:
             - <b>Supervisors:</b> Prof. Roberto Tateo
-        - title: <b>Project:</b> Testing the CHSH inequality with sequential weak measurements on polarization-entangled photon pairs.
+        - <b>Project:</b> Testing the CHSH inequality with sequential weak measurements on polarization-entangled photon pairs.
 
 - title: Teaching Assistant
   type: time_table
@@ -51,7 +51,6 @@
       description:
         - Taught and coordinated classes for sailing students of all ages during the summer. 
     - title: Divemaster
-      institution: PADI
       year: 2022-Present
       description:
         - Organized, directed, and supervised dives and briefings.
