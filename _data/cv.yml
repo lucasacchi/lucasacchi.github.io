@@ -15,9 +15,9 @@
       institution: Eidgenössische Technische Hochschule ETH, Zurich, Switzerland
       year: 2021-Present
       description:
-        - <b>Project 1:</b> Characterization of a time symmetry-breaking chiral cavity with THz-TDS
+        - <b>Project 1:</b> Characterization of a time symmetry-breaking chiral cavity with THz-TDS.
         - <b>Project 2:</b> Analyzing the pro and retrograde content of ringdown signals in aligned-spin binary BH mergers.
-    - title: BSc. in Physical Science and Technology
+    - title: BSc. in Physics
       institution: Università degli Studi di Torino
       year: 2018-2021
       description:
@@ -25,22 +25,6 @@
           contents:
             - <b>Supervisors:</b> Prof. Roberto Tateo
         - title: <b>Project:</b> Testing the CHSH inequality with sequential weak measurements on polarization-entangled photon pairs.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research assistant in Quantum Optoelectronics Group
-      institution: ETH
-      year: 2022
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-
-
 
 - title: Teaching Assistant
   type: time_table
@@ -52,19 +36,29 @@
       institution: ETH
       year: 2023
 
-- title: Academic Interests
-  type: nested_list
+- title: Volunteering and Other Experiences
+  type: time_table
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Project team leader for the NAUTILUS structure team of ARIS
+      institution: ETH
+      year: 2021-Present
+      description:
+        - Designed a modular Unmanned Underwater Vehicle (UUV) glider which will be used for future research studies of glaciers in Switzerland and at the Poles.
+        - Recruited and led a team of 8 people in developing the structure of the UUV.
+        - NAUTILUS is a project in collaboration with ARIS, a 170+ student spin-off of ETH.
+    - title: Volunteer sailing instructor at Centro Velico Caprera
+      year: 2018-Present
+      description:
+        - Taught and coordinated classes for sailing students of all ages during the summer. 
+    - title: Divemaster
+      institution: PADI
+      year: 2022-Present
+      description:
+        - Organized, directed, and supervised dives and briefings.
+
+
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - In the future, I plan to visit Tanzania and to study for the Gliding Pilot License.
