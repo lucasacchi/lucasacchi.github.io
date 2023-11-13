@@ -23,6 +23,6 @@ I am a Master's student in physics at ETH in Zurich where I am taking my first s
 
 I have been focusing on my graduate studies in two different areas of physics. In my initial year of grad studies, I concentrated on Quantum Optics and Photonics, working in [Professor Jerome Faist and Giacomo Scalari's lab](https://qoe.ethz.ch/) on a THz metamaterial optical cavity. Driven by sheer curiosity and a lack of knowledge in the area, I decided to delve into General Relativity and Cosmology by taking various graduate courses and doing teaching assistantships. I am currently working on a project on decomposing quasinormal mode signals from binary black hole mergers in NR simulations. _An unexpected journey from the micro to the macrocosmic._
 
-In my free time, I like to try and learn new sports. In particular, I like [scuba diving](https://lucasacchi.github.io/scuba/) and [sailing](https://lucasacchi.github.io/sailing/), where technicality and the call of adventure converge.
+In my free time, I like to try and learn new sports. In particular, I like [scuba diving](https://lucasacchi.github.io/scuba/) and [sailing](https://lucasacchi.github.io/sailing/), where technicality and the call of adventure meet.
 
 
