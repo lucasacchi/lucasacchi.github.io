@@ -16,24 +16,27 @@ Here are some photos of the team and various pools and lake tests we did.
 {% include figure.html path="assets/img/aris/20221204_225300.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 
-
-<div class="row">
-    <div class="col-lg">
-        <div class="rotate-90">
-            {% include figure.html path="assets/img/aris/20221206_212532.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="container">
+    <div class="row">
+        <div class="col-lg mt-3 mt-md-0">
+            <div class="rotate-90">
+                {% include figure.html path="assets/img/aris/20221206_212532.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+            </div>
         </div>
-    </div>
-    <div class="col-lg">
-        <div class="rotate-90">
-            {% include figure.html path="assets/img/aris/20221206_212532.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="col-lg mt-3 mt-md-0">
+            <div class="rotate-90">
+                {% include figure.html path="assets/img/aris/20221206_212532.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+            </div>
         </div>
-    </div>
-    <div class="col-lg">
-        <div class="rotate-90">
-            {% include figure.html path="assets/img/aris/20221206_212532.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="col-lg mt-3 mt-md-0">
+            <div class="rotate-90">
+                {% include figure.html path="assets/img/aris/20221206_212532.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+            </div>
         </div>
     </div>
 </div>
+
+
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
