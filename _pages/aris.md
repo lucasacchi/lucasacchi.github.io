@@ -27,14 +27,45 @@ Here are some photos of the team and various pools and lake tests we did.
         {% include figure.html path="assets/img/aris/20221206_212532.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col">
-        {% include figure.html path="assets/img/aris/20221206_212532.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/aris/20221206_235353.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col">
-        {% include figure.html path="assets/img/aris/20221206_212532.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/aris/20230321_144632.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-/assets/img/aris/20221206_212532.jpg
+<div class="row">
+    <div class="col mt-3 mt-md-0">
+        {% include figure.html path="assets/img/aris/DJI_0077.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col mt-3 mt-md-0">
+        {% include figure.html path="assets/img/aris/20221217_182353.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col mt-3 mt-md-0">
+        {% include figure.html path="assets/img/aris/IMG_0003.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col mt-3 mt-md-0">
+        {% include figure.html path="assets/img/aris/IMG_9958.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col mt-3 mt-md-0">
+        {% include figure.html path="assets/img/aris/IMG_0115.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+DJI_0077.JPG
+20221217_182353.jpg
+IMG_0003.jpg
+IMG_9958.jpg
+IMG_0115.jpg
+
 
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
