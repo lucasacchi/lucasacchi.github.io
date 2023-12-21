@@ -22,21 +22,30 @@ Here are some photos of the team and various pools and lake tests we did.
     </div>
 </div>
 
+<table width="100%" border="0">
+  <tr>    
+  <td><img src="/assets/img/aris/20221206_212532.jpg" alt="" align="left" /></td>
+  <td><img src="/assets/img/aris/20221206_212532.jpg" alt="" align="center" /></td>
+  <td><img src="/assets/img/aris/20221206_212532.jpg" alt="" align="right"/></td>
+  </tr>
+</table>
+
+
 <div class="container">
     <div class="row">
         <div class="col">
             <div class="rotate-90">
-                {% include figure.html path="assets/img/aris/20221206_212532.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+                <img class="img-fluid src="/assets/img/aris/20221206_212532.jpg" rounded z-depth-1">
             </div>
         </div>
         <div class="col">
             <div class="rotate-90">
-                {% include figure.html path="assets/img/aris/20221206_212532.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+                <img class="img-fluid src="/assets/img/aris/20221206_212532.jpg" rounded z-depth-1">
             </div>
         </div>
         <div class="col">
             <div class="rotate-90">
-                {% include figure.html path="assets/img/aris/20221206_212532.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+                <img class="img-fluid src="/assets/img/aris/20221206_212532.jpg" rounded z-depth-1">
             </div>
         </div>
     </div>
