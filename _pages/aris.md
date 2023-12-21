@@ -22,21 +22,19 @@ Here are some photos of the team and various pools and lake tests we did.
 </div>
 
 
-
-
 <div class="row">
     <div class="col">
-        <img class="img-fluid src="/assets/img/aris/20221206_212532.jpg" rounded z-depth-1">
+        {% include figure.html path="assets/img/aris/20221206_212532.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col">
-        <img class="img-fluid src="/assets/img/aris/20221206_212532.jpg" rounded z-depth-1">
+        {% include figure.html path="assets/img/aris/20221206_212532.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col">
-        <img class="img-fluid src="/assets/img/aris/20221206_212532.jpg" rounded z-depth-1">
+        {% include figure.html path="assets/img/aris/20221206_212532.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-
+/assets/img/aris/20221206_212532.jpg
 
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
