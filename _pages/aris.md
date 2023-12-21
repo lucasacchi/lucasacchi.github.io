@@ -16,3 +16,7 @@ Here are some photos of the team and various pools and lake tests we did.
 {% include figure.html path="assets/img/aris/20221204_225300.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 {% include figure.html path="assets/img/aris/20221206_212532.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
+<div class="rotate-90">
+    {% include figure.html path="assets/img/aris/20221206_212532.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+</div>
