@@ -39,6 +39,9 @@ Here are some photos of the team and various pools and lake tests we did.
         {% include figure.html path="assets/img/aris/DJI_0077.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    The first pool test.
+</div>
 <div class="row">
     <div class="col mt-3 mt-md-0">
         {% include figure.html path="assets/img/aris/20221217_182353.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -53,6 +56,9 @@ Here are some photos of the team and various pools and lake tests we did.
     <div class="col mt-3 mt-md-0">
         {% include figure.html path="assets/img/aris/IMG_9958.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    The first lake test.
 </div>
 <div class="row">
     <div class="col mt-3 mt-md-0">
