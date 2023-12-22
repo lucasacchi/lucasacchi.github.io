@@ -23,13 +23,13 @@ Here are some photos of the team and various pools and lake tests we did.
 
 
 <div class="row">
-    <div class="col">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/aris/20221206_212532.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/aris/20221206_235353.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/aris/20230321_144632.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
