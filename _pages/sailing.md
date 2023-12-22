@@ -14,3 +14,6 @@ Additionally, knowledge of flora and fauna, along with practical skills like car
 Sailing requires physical strength and mental lucidity, contributing to the feeling of becoming one with the rhythm of the sea. These aspects intertwine to create a holistic and fulfilling sailing experience that embodies both the thrill of exploration and the serene escape from everyday life catering to a full range of emotions.
 
 I have sailed mostly in the Mediterranean, in the Irish Sea, and in the English Channel. I have the RYA Coastal Skipper qualification and in my spare time during summer, I volunteer as a sailing instructor at Centro Velico Caprera, which is the second oldest and biggest sailing school in Europe. 
+
+Hopefully one day I will own a small sailboat to be able to solo sail and explore the seas.
+
