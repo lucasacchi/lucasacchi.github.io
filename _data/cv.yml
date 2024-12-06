@@ -11,9 +11,15 @@
 - title: Education
   type: time_table
   contents:
+      - title: Visiting Scholar
+      institution: Harvard University, Cambridge, USA
+      year: 2024-present
+      description:
+        - <b>Project 1:</b> Design, fabrication, and characterization of metaoptics elements.
+        
     - title: MSc. in Physics
       institution: Eidgenössische Technische Hochschule ETH, Zurich, Switzerland
-      year: 2021-Present
+      year: 2021-2024
       description:
         - <b>Project 1:</b> Characterization of a time symmetry-breaking chiral cavity with THz-TDS.
         - <b>Project 2:</b> Analyzing the pro and retrograde content of ringdown signals in aligned-spin binary BH mergers.
