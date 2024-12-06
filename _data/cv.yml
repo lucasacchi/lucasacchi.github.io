@@ -11,25 +11,24 @@
 - title: Education
   type: time_table
   contents:
-      - title: Visiting Scholar
+    - title: Visiting Scholar
       institution: Harvard University, Cambridge, USA
       year: 2024-present
       description:
-        - <b>Project 1:</b> Design, fabrication, and characterization of metaoptics elements.
+        - "<b>Project 1:</b> Design, fabrication, and characterization of metaoptics elements."
     - title: MSc. in Physics
       institution: Eidgenössische Technische Hochschule ETH, Zurich, Switzerland
       year: 2021-2024
       description:
-        - <b>Project 1:</b> Characterization of a time symmetry-breaking chiral cavity with THz-TDS.
-        - <b>Project 2:</b> Analyzing the pro and retrograde content of ringdown signals in aligned-spin binary BH mergers.
+        - "<b>Project 1:</b> Characterization of a time symmetry-breaking chiral cavity with THz-TDS."
+        - "<b>Project 2:</b> Analyzing the pro and retrograde content of ringdown signals in aligned-spin binary BH mergers."
     - title: BSc. in Physics
       institution: Università degli Studi di Torino
       year: 2018-2021
       description:
-        - title: <b>Thesis:</b> NLSE solitons solutions in a Bose-Einstein Condensate and their geometrical interpretation.
-          contents:
-            - <b>Supervisors:</b> Prof. Roberto Tateo
-        - <b>Project:</b> Testing the CHSH inequality with sequential weak measurements on polarization-entangled photon pairs.
+        - "<b>Thesis:</b> NLSE solitons solutions in a Bose-Einstein Condensate and their geometrical interpretation."
+        - "<b>Supervisors:</b> Prof. Roberto Tateo"
+        - "<b>Project:</b> Testing the CHSH inequality with sequential weak measurements on polarization-entangled photon pairs."
 
 - title: Teaching Assistant
   type: time_table
