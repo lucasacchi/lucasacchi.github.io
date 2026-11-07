@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="referrer" content="no-referrer">
+  <title>Password setup | Luca Sacchi</title>
+  <link rel="stylesheet" href="/auth/style.css">
+  <script src="/auth/action.js" defer></script>
+</head>
+<body>
+  <main>
+    <p class="eyebrow">Luca Sacchi</p>
+    <h1 id="page-title">Checking your link…</h1>
+    <p id="intro">Please wait a moment.</p>
+    <form id="password-form" hidden>
+      <label for="email">Email</label>
+      <input id="email" type="email" value="lucasacchi31@gmail.com" autocomplete="username" readonly>
+      <label for="password">New password</label>
+      <input id="password" type="password" autocomplete="new-password" minlength="12" required>
+      <label for="confirmation">Confirm password</label>
+      <input id="confirmation" type="password" autocomplete="new-password" minlength="12" required>
+      <button id="submit" type="submit">Save password</button>
+    </form>
+    <p id="status" role="status" aria-live="polite"></p>
+    <a href="/auth/">Return to sign in</a>
+    <noscript><p>JavaScript is required to complete password setup.</p></noscript>
+  </main>
+</body>
+</html>
