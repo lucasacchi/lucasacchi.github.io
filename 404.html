@@ -25,6 +25,15 @@
       <button type="button" id="toggle-mode">Set up my password</button>
       <button type="button" id="reset-password">Forgot password?</button>
     </div>
+    <details id="email-link-help">
+      <summary>Trouble opening an email link?</summary>
+      <p>Paste the full link from your password or verification email to open it here.</p>
+      <form id="email-link-form">
+        <label for="email-action-link">Email link</label>
+        <input id="email-action-link" type="url" autocomplete="off" autocapitalize="none" spellcheck="false" required>
+        <button id="open-email-link" type="submit">Open email link</button>
+      </form>
+    </details>
     <section id="verification" hidden>
       <p>Check your inbox and open the verification link. Then come back here.</p>
       <button type="button" id="check-verification">I’ve verified my email</button>

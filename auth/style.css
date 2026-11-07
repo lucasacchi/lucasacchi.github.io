@@ -17,5 +17,9 @@ button:disabled { cursor:wait; opacity:.6; }
 .secondary-actions button,.text-button { color:var(--accent); background:none; padding:.3rem 0; font-size:.88rem; }
 #status { min-height:3rem; margin-top:1.5rem; color:var(--muted); font-size:.9rem; }
 #verification { margin-top:1.5rem; padding-top:1rem; border-top:1px solid var(--border); }
+details { margin-top:1.4rem; font-size:.9rem; }
+summary { cursor:pointer; color:var(--accent); }
+details p { color:var(--muted); }
+#open-email-link { background:var(--accent); color:white; margin-top:1rem; }
 [hidden] { display:none !important; }
 @media(prefers-color-scheme:dark) { :root { --bg:#181a1c; --text:#eee; --muted:#a4a9b1; --border:#46494d; --accent:#ca73c7; } #submit,#check-verification { color:#171517; } }
